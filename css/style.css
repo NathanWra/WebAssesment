@@ -1,0 +1,85 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  Background-color: #1a8cff;
+}
+header {
+  text-align: center;
+}
+
+header > img {
+  height: 300px;
+}
+
+/* JUMBOTRON STYLE HERE */
+.jumbotron{
+  background: 
+linear-gradient(
+  rgba(0, 0, 250, 0.25), 
+  rgba(125, 250, 250, 0.45)
+),
+url(https://images.unsplash.com/photo-1572890017072-df0b2f008fda?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80://images.unsplash.com/photo-1603651305184-4605c31cfe0e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+background-repeat: repeat;
+background-attachment: centre;
+color:white !important;
+height:40vh;
+}
+
+/* Add a  background color to the top navigation */
+.navbar {
+  background-color: #1a8cff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -4px;
+}
+
+/* Heading settings */
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  color: #545050;
+}
+
+blockquote {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  color: #4b2a4398;
+}
+
+/* Home page content */
+.homecontent {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  width: 70%;
+  /* border: 3px solid #000000; */
+  margin: auto;
+  text-align: justify;
+}
+.listPlaces {
+  text-align: left;
+  width: 70%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  margin-top: 15px;
+}
+/* end Home page content */
+
+/** begin contact page **/
+
+#contact {
+
+    .list-container {
+    text-align: center;
+    .list-item {
+        display: inline-block;
+    }
+}
+}
+
+/* end contact page content */
+
+footer {
+  padding-top: 40px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
